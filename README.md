@@ -185,7 +185,5 @@ VGG-19 Model: http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.m
 After downloading, put it in the top level of this repository.
 
 ## Acknowledgements
-- [Cameron Smith's great code](https://github.com/cysmith/neural-style-tf) for tensorflow implementation of neural style.
-- [Anish Athalye's code](https://github.com/anishathalye/neural-style) also helps a lot.
+- [Cameron Smith's code](https://github.com/cysmith/neural-style-tf) for tensorflow implementation of neural style.
 - [Dmitry Ulyanov's code](https://github.com/DmitryUlyanov/fast-neural-doodle) shows how to cluster colorful masks.
-- Most images used in my experiments are from materials and repositories mentioned above.
